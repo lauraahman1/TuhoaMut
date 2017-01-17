@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace TuhoaMut
 {
     class Program
-    {
+    
         static void Main(string[] args)
         {
         }
